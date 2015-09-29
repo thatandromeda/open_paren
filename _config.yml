@@ -1,0 +1,7 @@
+name: "Open paren"
+description: "A podcast about libraries and code"
+author: "Andromeda Yelton"
+
+baseurl: "/open_paren"
+
+markdown: kramdown
