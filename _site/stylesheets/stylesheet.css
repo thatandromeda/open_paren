@@ -35,9 +35,8 @@ a {
 .btn {
   display: inline-block;
   margin-bottom: 1rem;
-  color: rgba(255, 255, 255, 0.7);
-  background-color: rgba(255, 255, 255, 0.08);
-  border-color: rgba(255, 255, 255, 0.2);
+  color: #1e6bb8;
+  border-color: #1e6bb8;
   border-style: solid;
   border-width: 1px;
   border-radius: 0.3rem;
@@ -46,10 +45,10 @@ a {
     margin-left: 1rem; }
 
 .btn:hover {
-  color: rgba(255, 255, 255, 0.8);
+  color: #4d0848;
   text-decoration: none;
-  background-color: rgba(255, 255, 255, 0.2);
-  border-color: rgba(255, 255, 255, 0.3); }
+  background-color: rgb(234, 218, 233);
+  border-color: #1e6bb8; }
 
 @media screen and (min-width: 64em) {
   .btn {
@@ -63,12 +62,37 @@ a {
 @media screen and (max-width: 42em) {
   .btn {
     display: block;
-    width: 100%;
+    width: 90%;
+    margin: 10px 5%;
+    text-align: center;
     padding: 0.75rem;
     font-size: 0.9rem; }
     .btn + .btn {
       margin-top: 1rem;
       margin-left: 0; } }
+
+@media screen and (min-width: 64em) {
+  .btn-small {
+    padding: 0.25rem 0.75rem; } }
+
+@media screen and (min-width: 42em) and (max-width: 64em) {
+  .btn-small {
+    padding: 0.4rem 0.75rem;
+    font-size: 1rem; } }
+
+@media screen and (max-width: 42em) {
+  .btn-small {
+    padding: 0.375rem;
+    font-size: 1rem; }
+}
+
+@media screen and (min-width: 42em) {
+  .btn-threequarter {
+    width: 75%;
+    margin-left: 0
+    clear: right;
+    text-align: center;} }
+
 
 .page-header {
   color: #fff;

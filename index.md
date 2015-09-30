@@ -16,9 +16,3 @@ The title, Open paren, is a play on the xkcd [With Apologies to Robert Frost](ht
 > a close-paren.
 
 I'm happy with whatever language or toolchain gets things done for you. Let's start something.
-
----
-Want to start something right now?
-
-[Suggest a guest](https://docs.google.com/forms/d/14LvBqDK1gTq2WyOW2EcjLws1-FB72nCaExer3Pmyu5k/viewform?usp=send_form) &middot; Tweet [#openparen](https://twitter.com/intent/tweet?text=%23openparen)
-
