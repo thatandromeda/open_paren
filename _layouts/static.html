@@ -7,23 +7,26 @@
       </div>
 
       <div class="episode-list">
-        {% if site.posts.size > 0 %}
-          <h3>Recent Episodes</h3>
-          <ul>
-            {% for post in site.posts limit:10 %}
-            <li>
-              <a href="{{ post.url }}">{{ post.title }}</a>
-            </li>
-            {% endfor %}
-          </ul> 
-        {% endif %}
-  
         <h3>Start something</h3>
 
         <a href="https://docs.google.com/forms/d/14LvBqDK1gTq2WyOW2EcjLws1-FB72nCaExer3Pmyu5k/viewform?usp=send_form" class="btn btn-small btn-threequarter">Suggest a guest</a> <br />
 
         <a href="https://twitter.com/intent/tweet?text=%23openparen" class="btn btn-small btn-threequarter">Tweet #openparen</a>
 
+        {% if site.posts.size > 0 %}
+          <h3>Recent Episodes</h3>
+          <ul>
+            {% assign today = site.time %}
+            {% for post in site.posts limit:10 %}
+              {% if post.date <= today %}
+                <li>
+                  <a href="{{ post.url }}">{{ post.title }}</a>
+                </li>
+              {% endif %}
+            {% endfor %}
+          </ul> 
+        {% endif %}
+  
       </div>
 
 
