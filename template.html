@@ -1,0 +1,42 @@
+---
+layout: default
+title: ***
+episode_number: ***
+permalink: episode_{{ num }}_{{ guest }}
+---
+
+{{ video here }}
+
+<p>
+  Today, I'm chatting with {{ page.interviewee_name }}, a {{ page.interviewee_role }} at <a href="{{ page.institution_link }}">{{ page.institution }}</a>.  
+</p>
+
+<ul>
+  <li>Github: <a href="https://github.com/{{ page.github_username }}">{{ page.github_username }}</a></li>
+  <li>Twitter: <a href="https://twitter.com/{{ page.twitter_username }}">@{{ page.twitter_username }}</a></li>
+  <li>Site: <a href="{{ page.interviewee_url }}">{{ title }}</a></li>
+</ul>
+
+<h3>In this episode</h3>
+
+<p>{{ page.brief_description }}</p>
+<blockquote>Lorem ipsum dolor sit amet <cite>Dr. Seuss</cite></blockquote>
+
+<pre> la la        la la la</pre>
+<code>
+  for x in range (0,10): print x*x
+</code>
+<pre><code>if x > 2:
+  print x
+elif x < 3:
+  print 'foo'
+else:
+  run_exception_handler()
+</code></pre>
+<h3>Links</h3>
+
+<ul>
+  <li><a href="{{ url }}">thing 1</a> &mdash; {{ description }}</li>
+  <li><a href="{{ url }}">thing the second</a> &mdash; {{ description }}</li>
+  <li><a href="{{ url }}">yet another thing</a> &mdash; {{ description }}</li>
+</ul>

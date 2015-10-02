@@ -13,10 +13,10 @@
 
         <a href="https://twitter.com/intent/tweet?text=%23openparen" class="btn btn-small btn-threequarter">Tweet #openparen</a>
 
-        {% if site.posts.size > 0 %}
+        {% assign today = site.time %}
+        {% if site.tags['published'].size > 0 %}
           <h3>Recent Episodes</h3>
           <ul>
-            {% assign today = site.time %}
             {% for post in site.posts limit:10 %}
               {% if post.date <= today %}
                 <li>
@@ -24,7 +24,20 @@
                 </li>
               {% endif %}
             {% endfor %}
-          </ul> 
+          </ul>
+        {% endif %}
+
+        {% if site.tags['upcoming'].size > 0 %}
+          <h3>Upcoming Episodes</h3>
+          <ul>
+            {% for post in site.tags['upcoming'] %}
+              {% if post.date > today %}
+                <li>
+                  <a href="{{ post.url }}">{{ post.title }}</a>
+                </li>
+              {% endif %}
+            {% endfor %}            
+          </ul>
         {% endif %}
   
       </div>

@@ -1,0 +1,41 @@
+
+
+<p>
+  Today, I'm chatting with , a  at <a href=""></a>.  
+</p>
+
+<ul>
+  <li>Github: <a href="https://github.com/"></a></li>
+  <li>Twitter: <a href="https://twitter.com/">@</a></li>
+  <li>Site: <a href=""></a></li>
+</ul>
+
+<h3>In this episode</h3>
+
+<p></p>
+<blockquote>Lorem ipsum dolor sit amet <cite>Dr. Seuss</cite></blockquote>
+
+<pre> la la        la la la</pre>
+<code>
+  for x in range (0,10): print x*x
+</code>
+<pre><code>if x > 2:
+  print x
+elif x < 3:
+  print 'foo'
+else:
+  run_exception_handler()
+</code></pre>
+<h3>Links</h3>
+
+<ul>
+  <li><a href="">thing 1</a> &mdash; </li>
+  <li><a href="">thing the second</a> &mdash; </li>
+  <li><a href="">yet another thing</a> &mdash; </li>
+</ul>
+
+
+<div class="highlight"><pre><code class="ruby"><span class="k">def</span> <span class="nf">foo</span>
+  <span class="nb">puts</span> <span class="s1">&#39;foo&#39;</span>
+<span class="k">end</span>
+</code></pre></div>
