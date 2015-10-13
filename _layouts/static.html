@@ -31,11 +31,9 @@
           <h3>Upcoming Guests</h3>
           <ul>
             {% for post in site.tags['upcoming'] %}
-              {% if post.date > today %}
-                <li>
-                  {{ post.title }}
-                </li>
-              {% endif %}
+              <li>
+                {{ post.title }}
+              </li>
             {% endfor %}            
           </ul>
         {% endif %}
