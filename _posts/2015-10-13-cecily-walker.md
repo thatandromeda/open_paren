@@ -6,9 +6,7 @@ permalink: episode-1-cecily-walker
 tags: upcoming
 ---
 
-_Watch this space for a Google Hangout-on-Air embed around 8:45pm Eastern on October 13._
-
-{% comment %}{{ video here }}{% endcomment %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rM4oNZt9tFA" frameborder="0" allowfullscreen></iframe>
 
 Today, I'm chatting with Cecily Walker, a Librarian II at [Vancouver Public Library](http://www.vpl.ca/) and an Editorial Board member at [In the Library with the Lead Pipe](http://www.inthelibrarywiththeleadpipe.org/).
 
@@ -18,34 +16,14 @@ Today, I'm chatting with Cecily Walker, a Librarian II at [Vancouver Public Libr
 
 <h3>In this episode</h3>
 
-_Professional development, maptime, digital humanities and inclusive metadata - who knows?_
+We talked about Skillcrush, Maptime, learning communities, why maybe user interfaces _should_ make you think, the gaps in our metadata, human stories, and how to break and remake the library world for the better. I couldn't have asked for a better opening guest.
 
-{% comment %}
-<p>{{ page.brief_description }}</p>
-<blockquote>Lorem ipsum dolor sit amet <cite>Dr. Seuss</cite></blockquote>
-
-<pre> la la        la la la</pre>
-<code>
-  for x in range (0,10): print x*x
-</code>
-<pre><code>if x > 2:
-  print x
-elif x < 3:
-  print 'foo'
-else:
-  run_exception_handler()
-</code></pre>
-<h3>Links</h3>
-
-<ul>
-  <li><a href="{{ url }}">thing 1</a> &mdash; {{ description }}</li>
-  <li><a href="{{ url }}">thing the second</a> &mdash; {{ description }}</li>
-  <li><a href="{{ url }}">yet another thing</a> &mdash; {{ description }}</li>
-</ul>
-
-{% highlight python %}
-def foo():
-    print foo 
-{% endhighlight %}
-
-{% endcomment %}
+### Links
+* [NYPL web survey tool, Infomaki](https://github.com/NYPL/infomaki)
+* [Why's (Poignant) Guide to Ruby](http://mislav.uniqpath.com/poignant-guide/)
+* [Obey the Testing Goat](http://www.obeythetestinggoat.com/)
+* [Skillcrush](http://skillcrush.com/)
+* [Maptime](http://maptime.io/) / [Maptime Vancouver](http://maptime.io/vancouver/)
+* [2015 DLF Forum](http://www.diglib.org/forums/2015forum/), October 26-28 in Vancouver; [info on the Cecily Walker/Chris Bourg keynote](http://www.diglib.org/forums/2015forum/keynotes/)
+* [Miriam Posner's "What’s Next: The Radical, Unrealized Potential of Digital Humanities"](http://miriamposner.com/blog/whats-next-the-radical-unrealized-potential-of-digital-humanities/) and [The Knotted Line](http://knottedline.com/)
+* [Steve Krug's _Don't Make Me Think_](https://www.sensible.com/dmmt.html)
