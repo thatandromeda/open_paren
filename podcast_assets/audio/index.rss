@@ -44,7 +44,7 @@
       <itunes:author></itunes:author>
     
       <itunes:image href=""/>
-      <enclosure url="https://thatandromeda.github.io/open_paren/Open_Paren_Episode_1-_Cecily_Walker.mp3" length="63482703" type="audio/mp3"/>
+      <enclosure url="https://thatandromeda.github.io/open_paren/podcast_assets/audio/Open_Paren_Episode_1-_Cecily_Walker.mp3" length="63482703" type="audio/mp3"/>
       <guid isPermaLink="false">c450220c991a3b882f8e6ebb6ccb40f379076a7f</guid>
       <pubDate>Wed, 14 Oct 2015 17:49:52 -0400</pubDate>
       <itunes:duration>2645</itunes:duration>

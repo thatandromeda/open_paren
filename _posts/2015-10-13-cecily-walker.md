@@ -3,7 +3,7 @@ layout: default
 title: Cecily Walker
 episode_number: 1
 permalink: episode-1-cecily-walker
-tags: upcoming
+tags: published
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rM4oNZt9tFA" frameborder="0" allowfullscreen></iframe>
