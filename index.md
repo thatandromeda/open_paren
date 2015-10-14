@@ -16,6 +16,3 @@ The title, Open paren, is a play on the xkcd [With Apologies to Robert Frost](ht
 > a close-paren.
 
 I'm happy with whatever language or toolchain gets things done for you. Let's start something.
-
-    def foo():
-        return 2
