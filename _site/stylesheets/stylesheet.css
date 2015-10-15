@@ -103,7 +103,7 @@ a {
 @media screen and (min-width: 64em) {
   .page-header h1 {
     max-width: 64rem;
-    padding: 3rem 6rem 4rem 6rem;
+    padding: 2.5rem 6rem 3.5rem 6rem;
     margin: 0 auto; } }
 
   .header-normal {
@@ -136,7 +136,7 @@ a {
 
 .project-name {
   margin-top: 0;
-  margin-bottom: 0.1rem;
+  margin-bottom: 0;
   position: relative;
 }
 
@@ -186,6 +186,62 @@ a {
 @media screen and (max-width: 42em) {
   .project-tagline {
     font-size: 1rem; } }
+
+.header-subnav {
+  list-style-type: none;
+  background-color: #4d0848;
+  margin-top: 0;
+}
+
+@media screen and (min-width: 64em) {
+  .header-subnav {
+    padding-left: 6rem;
+    padding-right: 6rem;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (min-width: 42em) and (max-width: 64em) {
+  .header-subnav {
+    padding-left: 4rem;
+    padding-right: 4rem;
+    margin: 0 auto;
+  }
+}
+
+@media screen and (max-width: 42em) {
+  .header-subnav {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
+.header-subnav li {
+  float: left;
+  padding: 0.5rem 1.5rem;
+}
+
+@media screen and (max-width: 42em) {
+  .header-subnav li {
+    float: none;
+    width: 100%;
+  }
+}
+
+.header-subnav li:hover {
+  background-color: rgb(234, 218, 233);
+  transition: color 0.2s, background-color 0.2s;
+}
+
+.header-subnav li:hover a {
+  color: #4d0848;
+  text-decoration: none;
+  transition: color 0.2s, background-color 0.2s;
+}
+
+.header-subnav li a {
+    color: white;
+}
 
 .main-content :first-child {
   margin-top: 0; }
