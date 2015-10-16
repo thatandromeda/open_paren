@@ -24,7 +24,7 @@
         {% if site.tags['upcoming'].size > 0 %}
           <h3>Upcoming Guests</h3>
           <ul>
-            {% for post in site.tags['upcoming'] %}
+            {% for post in site.tags['upcoming'] reversed %}
               <li>
                 {{ post.title }}
               </li>
