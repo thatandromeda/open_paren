@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Francis Kayiwa
-episode_number: 3
-permalink: episode-3-francis-kayiwa
+episode_number: 2
+permalink: episode-2-francis-kayiwa
 tags: upcoming
 ---
 
