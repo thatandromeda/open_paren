@@ -6,9 +6,7 @@ permalink: episode-3-francis-kayiwa
 tags: upcoming
 ---
 
-_Watch this space for a Google Hangout-on-Air embed the week of October 19._
-
-{% comment %}{{ video here }}{% endcomment %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z1xAVajUZoo" frameborder="0" allowfullscreen></iframe>
 
 <p>
   Today, I'm chatting with Francis Kayiwa, a Senior Unix Administrator at <a href="https://lib.vt.edu">Virginia Tech University Libraries</a>.  
@@ -21,10 +19,10 @@ _Watch this space for a Google Hangout-on-Air embed the week of October 19._
   <li>Site: <a href="http://fxkayiwa.msk0.org/">{{ title }}</a></li>
 </ul>
 
+{% comment %}
 <h3>In this episode</h3>
 
 _Check back later!_
-{% comment %}
 <p>{{ page.brief_description }}</p>
 <blockquote>Lorem ipsum dolor sit amet <cite>Dr. Seuss</cite></blockquote>
 
@@ -46,7 +44,8 @@ else:
 * [Docker](https://docker.com)
 * [OpenBSD](https://www.openbsd.org)
 
-{% comment %}Github Pages supports Pygments code highlighting. (!) {% endcomment %}
+{% endcomment %}
+{% comment %}Github Pages supports Pygments code highlighting. (!) 
 {% highlight ruby %}
 def foo
   puts 'foo'
