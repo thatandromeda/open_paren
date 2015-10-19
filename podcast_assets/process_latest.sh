@@ -41,3 +41,9 @@ cd audio/
 
 # Generate updated RSS feed
 dropcaster --channel-template=local_channel_template.html.erb > index.rss
+
+# Push to GitHub
+echo "What would you like your git commit message to be?"
+read message
+
+git add . ; git commit -m"$message" ; git push origin gh-pages
