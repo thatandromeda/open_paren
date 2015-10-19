@@ -20,15 +20,11 @@
     
   
     
-    <itunes:category text="Libraries"/>
+    <itunes:category text="Technology"/>
     
   
     
-    <itunes:category text="Librarians"/>
-    
-  
-    
-    <itunes:category text="Software"/>
+    <itunes:category text="Society &amp; Culture"/>
     
   
   
@@ -38,6 +34,19 @@
 	
     <itunes:keywords>libraries,librarians,software,code</itunes:keywords>
   
+  
+    <item>
+      <title>Episode 2: Francis Kayiwa</title>
+      <itunes:author></itunes:author>
+    
+      <itunes:image href=""/>
+      <enclosure url="http://thatandromeda.github.io/open_paren/podcast_assets/audio/Open_Paren_Episode_2-_Francis_Kayiwa.mp3" length="67333510" type="audio/mpeg"/>
+      <guid isPermaLink="false">dd24ccd881c024e19716e0216ef1e71648a4e78c</guid>
+      <pubDate>Mon, 19 Oct 2015 13:44:07 -0400</pubDate>
+      <itunes:duration>2805</itunes:duration>
+    
+      <description>Telecommuting via robot; how Francis got into system administration (and library school) by way of a Kenyan computer club and his dormmates' advice; late '90s computer science curricula and why things are better now; why Docker is the new hotness (and containerization can make your life than virtual machines do); learning from your social circle; documentation as hospitality; what Francis' favorite operating system is and why (spoiler alert: it's the one that makes him swear the least); and administering lots of servers at once with an Ansible playbook.</description>
+    </item>
   
     <item>
       <title>Episode 1: Cecily Walker</title>

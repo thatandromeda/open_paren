@@ -24,7 +24,7 @@ fi
 mv "$latest" "${latest// /_}"
 
 # Get the base filename, without directory or .mp4 extension
-filename=$(basename "$latest" .mp4)
+filename=$(basename "${latest// /_}" .mp4)
 
 # Convert to mp3 and write into audio/ directory
 ffmpeg -i "$latest" -f mp3 -ab 192000 -vn "${filename}".mp3
