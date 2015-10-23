@@ -6,7 +6,7 @@ permalink: episode-4-ed-summers-bergis-jules
 tags: upcoming
 ---
 
-_Watch this space for a Google Hangout-on-Air embed around 11am Eastern on 3 November 2015._
+_Watch this space for a viode embed around 11am Eastern on 3 November 2015._
 
 {% comment %}{{ video here }}{% endcomment %}
 

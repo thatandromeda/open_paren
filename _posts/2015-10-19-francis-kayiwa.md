@@ -16,7 +16,7 @@ tags: published
   <li>Github: <a href="https://github.com/kayiwa">kayiwa</a></li>
   <li>Twitter: <a href="https://twitter.com/kayiwa">@kayiwa</a></li>
   <li>Bitbucket: <a href="https://bitbucket.org/kayiwa/">kayiwa</a></li>
-  <li>Site: <a href="https://effexkay.us/">{{ title }}</a></li>
+  <li>Site: <a href="https://effexkay.us/">https://effexkay.us/</a></li>
 </ul>
 
 <h3>In this episode</h3>
