@@ -6,7 +6,7 @@ permalink: episode-3-bess-sadler
 tags: upcoming
 ---
 
-_Watch this space for a video embed around 4:30 Eastern on October 30, 2015._
+<iframe width="560" height="315" src="https://www.youtube.com/embed/V3ii84TrpIE" frameborder="0" allowfullscreen></iframe>
 
 <p>
   Today, I'm chatting with Bess Sadler, a Manager for Application Development, Digital Library Systems and Services at <a href="http://library.stanford.edu/department/digital-library-systems-and-services-dlss">Stanford University Library</a>.  
@@ -23,6 +23,6 @@ _Watch this space for a video embed around 4:30 Eastern on October 30, 2015._
 
 <ul>
   <li><a href="http://projectblacklight.org">Project Blacklight</a> &mdash; an open source discovery framework and community</li>
-  <li><a href="http://geoblacklight.org">Geoblacklight</a> &mdash; {{ description }}</li> a Blacklight application for finding and sharing geospatial data
+  <li><a href="http://geoblacklight.org">Geoblacklight</a> &mdash; a Blacklight application for finding and sharing geospatial data</li>
   <li><a href="http://projecthydra.org">Project Hydra</a> &mdash; an open source repository framework and community</li>
 </ul>
