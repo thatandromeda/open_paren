@@ -6,7 +6,7 @@ permalink: episode-3-bess-sadler
 tags: upcoming
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V3ii84TrpIE" frameborder="0" allowfullscreen></iframe>
+_Watch this space for a video embed._
 
 <p>
   Today, I'm chatting with Bess Sadler, a Manager for Application Development, Digital Library Systems and Services at <a href="http://library.stanford.edu/department/digital-library-systems-and-services-dlss">Stanford University Library</a>.  
