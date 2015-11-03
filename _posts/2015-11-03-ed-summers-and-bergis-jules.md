@@ -1,14 +1,12 @@
 ---
 layout: default
 title: Ed Summers & Bergis Jules
-episode_number: 4
-permalink: episode-4-ed-summers-bergis-jules
+episode_number: 3
+permalink: episode-3-ed-summers-bergis-jules
 tags: upcoming
 ---
 
-_Watch this space for a viode embed around 11am Eastern on 3 November 2015._
-
-{% comment %}{{ video here }}{% endcomment %}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFhsPa2gNQA" frameborder="0" allowfullscreen></iframe>
 
 Today, I'm chatting with Ed Summers, a Lead Developer at [Maryland Institute for Technology in the Humanities](http://mith.umd.edu), and Bergis Jules, University Archivist at the [University of California, Riverside](http://library.ucr.edu/) and a Council Member of the [Society of American Archivists](http://www2.archivists.org/.
 

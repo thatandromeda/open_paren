@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Bess Sadler
-episode_number: 3
-permalink: episode-3-bess-sadler
-tags: upcoming
+episode_number: 100
+permalink: episode-100-bess-sadler
+tags:
 ---
 
 _Watch this space for a video embed._
