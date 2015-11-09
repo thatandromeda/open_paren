@@ -36,6 +36,19 @@
   
   
     <item>
+      <title>Open Paren Episode 3: Miriam Posner</title>
+      <itunes:author></itunes:author>
+    
+      <itunes:image href=""/>
+      <enclosure url="http://thatandromeda.github.io/open_paren/podcast_assets/audio/Open_Paren_Episode_3-_Miriam_Posner.mp3" length="56912619" type="audio/mpeg"/>
+      <guid isPermaLink="false">c19fff1248ded538c74f061b67060a57922e84f9</guid>
+      <pubDate>Mon, 09 Nov 2015 14:39:28 -0500</pubDate>
+      <itunes:duration>2371</itunes:duration>
+    
+      <description>We chat about what “digital humanities” means, some thought-provoking projects and articles, the limitations of metadata in describing diverse experiences and how to build interfaces that grapple with these limitations, useful tools to learn if you want to do DH work, and more.</description>
+    </item>
+  
+    <item>
       <title>Episode 2: Francis Kayiwa</title>
       <itunes:author></itunes:author>
     
