@@ -26,8 +26,10 @@ mv "$latest" "${latest// /_}"
 # Get the base filename, without directory or .mp4 extension
 filename=$(basename "${latest// /_}" .mp4)
 
+echo "Base filename is "$filename""
+
 # Convert to mp3 and write into audio/ directory
-ffmpeg -i "$latest" -f mp3 -ab 192000 -vn "${filename}".mp3
+ffmpeg -i video/"${filename}".mp4 -f mp3 -ab 192000 -vn "${filename}".mp3
 
 # Run ruby script to prompt user for episode title and description
 # and edit .mp3 metadata accordingly
