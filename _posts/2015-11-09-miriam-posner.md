@@ -23,7 +23,7 @@ We chat about what "digital humanities" means, some thought-provoking projects a
 
 <h3>Links</h3>
 
-* [ElfYelp](http://etkspace.scandinavian.ucla.edu/maps/elfyelp.html): a map of Scandinavian folklore
+* [ElfYelp](http://etkspace.scandinavian.ucla.edu/maps/elfyelp.html) and [WitchHunter & TrollFinder](http://etkspace.scandinavian.ucla.edu/maps/witchhunter.html: maps of Scandinavian folklore
 * [Latent Geographical Topic Analysis](https://scholar.google.com/scholar?q=%22latent+geographical+topic+analysis%22&btnG=&hl=en&as_sdt=0%2C22&as_vis=1) (Google Scholar search)
 * [New York Public Library's Labs](http://www.nypl.org/collections/labs), including cool map-based projects like the [Space/Time Directory](http://spacetime.nypl.org/) and [Building Inspector](http://buildinginspector.nypl.org/)
 * Duarte, Marisa Elena & Miranda Belarde-Lewis. ["Imagining: Creating Spaces for Indigenous Ontologies"](http://www.tandfonline.com/doi/full/10.1080/01639374.2015.1018396)  _Cataloging & Classification Quarterly_ 53.5-6 (2015). (doi: 10.1080/01639374.2015.1018396)
