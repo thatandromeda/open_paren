@@ -15,7 +15,7 @@ _Watch this space for a video embed a little past 1 Eastern on November 9th._
 <ul>
   <li>Github: <a href="https://github.com/miriamposner">miriamposner</a></li>
   <li>Twitter: <a href="https://twitter.com/miriamkp">@miriamkp</a></li>
-  <li><a href="www.miriamposner.com">Web site</a></li>
+  <li><a href="http://www.miriamposner.com">Web site</a></li>
 </ul>
 
 {% comment %}
