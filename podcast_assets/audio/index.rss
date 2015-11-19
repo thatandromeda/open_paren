@@ -36,6 +36,19 @@
   
   
     <item>
+      <title>Episode 4: Whitni Watkins</title>
+      <itunes:author></itunes:author>
+    
+      <itunes:image href=""/>
+      <enclosure url="http://thatandromeda.github.io/open_paren/podcast_assets/audio/Open_Paren_Episode_4-_Whitni_Watkins.mp3" length="62984016" type="audio/mpeg"/>
+      <guid isPermaLink="false">05adcf8275cdd280cb88687ef62b5cbc42bd8d14</guid>
+      <pubDate>Wed, 18 Nov 2015 22:11:27 -0500</pubDate>
+      <itunes:duration>2624</itunes:duration>
+    
+      <description>We talk about ending up in programming without a CS degree, informal learning and hidden prerequisites, using programming in your life, Code Club, teaching yourself and others to code, and Whitni's unbelievably freaking cool app that uses echolocation to help you evaluate whether your library spaces are acoustically well-suited to their functions.</description>
+    </item>
+  
+    <item>
       <title>Open Paren Episode 3: Miriam Posner</title>
       <itunes:author></itunes:author>
     
