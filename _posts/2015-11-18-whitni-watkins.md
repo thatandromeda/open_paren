@@ -37,7 +37,15 @@ So many nouns turned up in this episode!
 * Dale Askey's Code4Lib Journal article on [why we don't open source our code](http://journal.code4lib.org/articles/527)
 * My previous employer, [Unglue.it](http://unglue.it/), and boss [Eric Hellman](http://go-to-hellman.blogspot.com/)
 * [Scratch](https://scratch.mit.edu/), MIT's super awesome programming language for kids
-* Tiny little computers and hackable/playful hardware: [RPi](https://www.raspberrypi.org/), [Arduino](https://www.arduino.cc/), [Little Bits](http://littlebits.cc/)
-* Learn-to-code options: [Hour of Code](https://hourofcode.com/), [Codecademy](https://www.codecademy.com/)
+* Tiny little computers and hackable/playful hardware:
+  * [RPi](https://www.raspberrypi.org/)
+  * [Arduino](https://www.arduino.cc/)
+  * [Little Bits](http://littlebits.cc/)
+* Learn-to-code options:
+  * [Hour of Code](https://hourofcode.com/)
+  * [Codecademy](https://www.codecademy.com/)
 * [IFTTT](https://ifttt.com/) ("If this, then that") &mdash; lets you do the programming task of connecting different apps' inputs, outputs, and actions together even if you have no programming knowledge
-* Code Club! [Saron Yitbarek's presentation](http://bloggytoons.com/code-club/) that kicked the whole thing off; Coral Sheldon-Hess's Code4Lib 2015 talk that spawned a slew of libraryland code clubs ([description and slides](http://code4lib.org/conference/2015/sheldon-hess), [video](https://youtu.be/ACuilk3_xao?t=209)); Sarah Simpkin's related presentation at Access ([video](https://www.youtube.com/watch?v=Oyl_ZsxzUeE))
+* Code Club!
+  * [Saron Yitbarek's presentation](http://bloggytoons.com/code-club/) that kicked the whole thing off
+  * Coral Sheldon-Hess's Code4Lib 2015 talk that spawned a slew of libraryland code clubs ([description and slides](http://code4lib.org/conference/2015/sheldon-hess), [video](https://youtu.be/ACuilk3_xao?t=209))
+  * Sarah Simpkin's related presentation at Access ([video](https://www.youtube.com/watch?v=Oyl_ZsxzUeE))
