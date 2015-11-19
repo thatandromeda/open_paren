@@ -23,7 +23,7 @@ tags: published
 
 The echolocation app is like this:
 
-![mind blown dot gif](https://media.giphy.com/media/msriR5ybSpQgo/giphy.gif)
+<img src="https://media.giphy.com/media/msriR5ybSpQgo/giphy.gif">
 
 <h3>Links</h3>
 
