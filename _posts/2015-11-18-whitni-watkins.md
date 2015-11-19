@@ -2,7 +2,7 @@
 layout: default
 title: Whitni Watkins
 episode_number: 4
-permalink: episode_4_whitni_watkins
+permalink: episode-4-whitni-watkins
 tags: published
 ---
 
