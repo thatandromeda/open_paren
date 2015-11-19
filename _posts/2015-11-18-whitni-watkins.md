@@ -32,7 +32,7 @@ So many nouns turned up in this episode!
 
 * [Google Search Appliance](https://developers.google.com/search-appliance/) &mdash; for when you need Google to be all enterprise-y and operate on your business data
 * [Piwik](https://piwik.org/) &mdash; an open source alternative to Google web analytics
-* [LITA Forum](http://litaforum.org/), where Whitni presented about her app
+* [LITA Forum](http://litaforum.org/), where [Whitni presented about her app](https://www.dropbox.com/s/uz0fw6sw415n2ho/LITAForum_poster.pptx?dl=0)
 * [Signal processing](https://en.wikipedia.org/wiki/Signal_processing)
 * Dale Askey's Code4Lib Journal article on [why we don't open source our code](http://journal.code4lib.org/articles/527)
 * My previous employer, [Unglue.it](http://unglue.it/), and boss [Eric Hellman](http://go-to-hellman.blogspot.com/)
