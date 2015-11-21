@@ -18,6 +18,8 @@
     
     
     
+    <itunes:image href="https://thatandromeda.github.io/open_paren/podcast_assets/cover_art.png"/>
+    
   
     
     <itunes:category text="Technology"/>
@@ -39,10 +41,10 @@
       <title>Episode 4: Whitni Watkins</title>
       <itunes:author></itunes:author>
     
-      <itunes:image href=""/>
+      <itunes:image href="https://thatandromeda.github.io/open_paren/podcast_assets/cover_art.png"/>
       <enclosure url="http://thatandromeda.github.io/open_paren/podcast_assets/audio/Open_Paren_Episode_4-_Whitni_Watkins.mp3" length="62984016" type="audio/mpeg"/>
       <guid isPermaLink="false">05adcf8275cdd280cb88687ef62b5cbc42bd8d14</guid>
-      <pubDate>Wed, 18 Nov 2015 22:11:27 -0500</pubDate>
+      <pubDate>Sat, 21 Nov 2015 11:35:36 -0500</pubDate>
       <itunes:duration>2624</itunes:duration>
     
       <description>We talk about ending up in programming without a CS degree, informal learning and hidden prerequisites, using programming in your life, Code Club, teaching yourself and others to code, and Whitni's unbelievably freaking cool app that uses echolocation to help you evaluate whether your library spaces are acoustically well-suited to their functions.</description>
@@ -52,7 +54,7 @@
       <title>Open Paren Episode 3: Miriam Posner</title>
       <itunes:author></itunes:author>
     
-      <itunes:image href=""/>
+      <itunes:image href="https://thatandromeda.github.io/open_paren/podcast_assets/cover_art.png"/>
       <enclosure url="http://thatandromeda.github.io/open_paren/podcast_assets/audio/Open_Paren_Episode_3-_Miriam_Posner.mp3" length="56912619" type="audio/mpeg"/>
       <guid isPermaLink="false">c19fff1248ded538c74f061b67060a57922e84f9</guid>
       <pubDate>Mon, 09 Nov 2015 14:39:28 -0500</pubDate>
@@ -65,7 +67,7 @@
       <title>Episode 2: Francis Kayiwa</title>
       <itunes:author></itunes:author>
     
-      <itunes:image href=""/>
+      <itunes:image href="https://thatandromeda.github.io/open_paren/podcast_assets/cover_art.png"/>
       <enclosure url="http://thatandromeda.github.io/open_paren/podcast_assets/audio/Open_Paren_Episode_2-_Francis_Kayiwa.mp3" length="67333510" type="audio/mpeg"/>
       <guid isPermaLink="false">dd24ccd881c024e19716e0216ef1e71648a4e78c</guid>
       <pubDate>Mon, 19 Oct 2015 13:44:07 -0400</pubDate>
@@ -78,7 +80,7 @@
       <title>Episode 1: Cecily Walker</title>
       <itunes:author></itunes:author>
     
-      <itunes:image href=""/>
+      <itunes:image href="https://thatandromeda.github.io/open_paren/podcast_assets/cover_art.png"/>
       <enclosure url="http://thatandromeda.github.io/open_paren/podcast_assets/audio/Open_Paren_Episode_1-_Cecily_Walker.mp3" length="63483566" type="audio/mpeg"/>
       <guid isPermaLink="false">e9a812f154a8304d40ea951c4dcf321ef8c5913b</guid>
       <pubDate>Thu, 15 Oct 2015 16:57:43 -0400</pubDate>
