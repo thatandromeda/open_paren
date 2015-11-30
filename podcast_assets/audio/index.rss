@@ -38,6 +38,19 @@
   
   
     <item>
+      <title>Episode 5: Margaret Heller</title>
+      <itunes:author></itunes:author>
+    
+      <itunes:image href="https://thatandromeda.github.io/open_paren/podcast_assets/cover_art.png"/>
+      <enclosure url="http://thatandromeda.github.io/open_paren/podcast_assets/audio/Open_Paren_Episode_5-_Margaret_Heller.mp3" length="64937419" type="audio/mpeg"/>
+      <guid isPermaLink="false">38311170436314ac5b02a466df185e7cea5e46a1</guid>
+      <pubDate>Mon, 30 Nov 2015 15:21:39 -0500</pubDate>
+      <itunes:duration>2705</itunes:duration>
+    
+      <description>We talk about the awesomely DIY Read/Write Library of Chicago (which is eager for your volunteer involvement, Chicagolanders); building a culture of UX testing; useful web analytics tools (and their privacy implications); and the pros and cons of open source library tech stacks.</description>
+    </item>
+  
+    <item>
       <title>Episode 4: Whitni Watkins</title>
       <itunes:author></itunes:author>
     
