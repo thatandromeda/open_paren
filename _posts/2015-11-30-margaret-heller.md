@@ -30,6 +30,7 @@ Also we thank good sysadmins for making the world a better place. (Do you have g
 * [Alma](http://www.exlibrisgroup.com/category/AlmaOverview) and [Primo](http://www.exlibrisgroup.com/category/PrimoOverview) from Ex Libris
 * [Google Analytics](https://www.google.com/analytics/)
 * [Inspectlet](https://www.inspectlet.com/)
+* [Measure the Future](http://measurethefuture.net/)
 * Matthew Reidsma on [how to do quick, cheap usability testing](http://matthew.reidsrow.com/articles/13)
 * Steve Krug's extremely influential usability books [Rocket Surgery Made Easy](https://www.worldcat.org/title/rocket-surgery-made-easy-the-do-it-yourself-guide-to-finding-and-fixing-usability-problems/oclc/499491845) and [Don't Make Me Think](https://www.worldcat.org/title/dont-make-me-think-revisited-a-common-sense-approach-to-web-usability/oclc/859556499&referer=brief_results), plus his [free, downloadable usability test scripts](https://www.sensible.com/downloads-rsme.html)
 * [Camtasia](https://www.techsmith.com/camtasia.html)
