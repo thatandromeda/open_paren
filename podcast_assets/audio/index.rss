@@ -38,6 +38,19 @@
   
   
     <item>
+      <title>Episode 6: Ian Collins</title>
+      <itunes:author></itunes:author>
+    
+      <itunes:image href="https://thatandromeda.github.io/open_paren/podcast_assets/cover_art.png"/>
+      <enclosure url="http://thatandromeda.github.io/open_paren/podcast_assets/audio/Open_Paren_Episode_6-_Ian_Collins.mp3" length="58695629" type="audio/mpeg"/>
+      <guid isPermaLink="false">66007fed164b99d84113487473eba33d630c6621</guid>
+      <pubDate>Thu, 10 Dec 2015 14:40:00 -0500</pubDate>
+      <itunes:duration>2445</itunes:duration>
+    
+      <description>Hyperlocal Chicago digital collections, a Wordpress/Drupal/Omeka smackdown, multisite Wordpress as a library service, Agile(ish) project management making lives better, why we love staging servers, the woes of front-end testing (with a rant about our frenemy Selenium), and Lars von Trier.</description>
+    </item>
+  
+    <item>
       <title>Episode 5: Margaret Heller</title>
       <itunes:author></itunes:author>
     
