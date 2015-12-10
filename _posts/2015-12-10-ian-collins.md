@@ -6,6 +6,8 @@ permalink: episode-6-ian-collins
 tags: 'upcoming'
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DnhZRpwBf6k" frameborder="0" allowfullscreen></iframe>
+
 Today, I'm chatting with Ian Collins, a Digital Services Librarian at the [University of Illinois at Chicago](http://library.uic.edu/). 
 
 * Twitter: [@icorules](https://twitter.com/icorules)
