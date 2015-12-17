@@ -6,6 +6,8 @@ permalink: episode-7-sumana-harihareswara
 tags: published
 ---
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8BliZgvIufE?list=PLvzb15Xqm9ERqxd8Cz8Q2JrYpfZYOMs8J" frameborder="0" allowfullscreen></iframe>
+
 Today, I'm chatting with Sumana Harihareswara, Founder at [Changeset Consulting](http://changeset.nyc/).
 
 * Twitter: [@brainwane](https://twitter.com/brainwane)
