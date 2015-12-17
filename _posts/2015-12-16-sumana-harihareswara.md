@@ -43,7 +43,7 @@ Shoutouts to good documentation, Ashley Blewer, and the Internet Archive.
 * [Unlocking the Clubhouse](https://mitpress.mit.edu/books/unlocking-clubhouse)
 * [Open Hatch](http://openhatch.org/) and its [Boston Python Workshops](http://bostonpythonworkshop.com/), organized by the fabulous [Jessica McKellar](https://en.wikipedia.org/wiki/Jessica_McKellar) (coincidentally, I cotaught a [preconference based on this workshop](https://thatandromeda.github.io/python-preconference/) at ALA Annual in 2013)
 * ["Why Don't Schools Teach Debugging?"](http://danluu.com/teach-debugging/)
-* [Sumana's writing at GeekFeminism](http://geekfeminism.org/author/brainwane/), including [Google, Gossip, and Gamification](http://geekfeminism.org/2011/07/11/google-gossip-gamification/)
+* [Sumana's writing at GeekFeminism](http://geekfeminism.org/author/brainwane/), including ["Google, Gossip, and Gamification"](http://geekfeminism.org/2011/07/11/google-gossip-gamification/) and ["body img – the anxiety of learning and how I am beating it"](http://geekfeminism.org/2012/03/24/the-anxiety-of-learning-and-beating-it/)
 * The [Recurse Center](http://recurse.com/) (famed, among other things for its [social rules](https://www.recurse.com/manual#sub-sec-social-rules), a wonderful piece of culture-setting in a tech learning environment)
 * [Software Carpentry](https://software-carpentry.org/) and its offshoot [Data Carpentry](http://www.datacarpentry.org/)
 * Hamilton! [Dreamwidth fan group](http://hamiltunes.dreamwidth.org/); [Lin-Manuel Miranda performing](https://www.youtube.com/watch?v=WNFf7nMIGnE) an early version of one of the songs that would ultimately be part of Hamilton
