@@ -38,6 +38,19 @@
   
   
     <item>
+      <title>Episode 7: Sumana Harihareswara</title>
+      <itunes:author></itunes:author>
+    
+      <itunes:image href="https://thatandromeda.github.io/open_paren/podcast_assets/cover_art.png"/>
+      <enclosure url="http://thatandromeda.github.io/open_paren/podcast_assets/audio/Open_Paren_Episode_7-_Sumana_Harihareswara.mp3" length="77295970" type="audio/mpeg"/>
+      <guid isPermaLink="false">bd771a6c24e957c9c583b28950123cf7b0c64865</guid>
+      <pubDate>Wed, 16 Dec 2015 20:40:00 -0500</pubDate>
+      <itunes:duration>3220</itunes:duration>
+    
+      <description>Project management, open source and social justice as tools of empowerment, self-image as a coder, how Sumana got into open source and why, learning programming (and its culture and tools) as an adult, computer science vs software engineering, managers as sysadmins of social infrastructure, media preservation and digitally archiving a literary estate, fixed vs. growth mindsets, debugging as a hero's journey, the Recurse Center, Hamilton.</description>
+    </item>
+  
+    <item>
       <title>Episode 6: Ian Collins</title>
       <itunes:author></itunes:author>
     
