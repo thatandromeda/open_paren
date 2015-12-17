@@ -12,7 +12,7 @@ Today, I'm chatting with Sumana Harihareswara, Founder at [Changeset Consulting]
 
 * Twitter: [@brainwane](https://twitter.com/brainwane)
 * Github: [brainwane](https://github.com/brainwane)
-* Web site: http://harihareswara.net/ (and [blog](http://www.harihareswara.net/ces.shtml))
+* Web site: [http://harihareswara.net/](http://harihareswara.net/) (and [blog](http://www.harihareswara.net/ces.shtml))
 * Dreamwidth: [brainwane](http://brainwane.dreamwidth.org/)
 * [LinkedIn](http://www.linkedin.com/in/sumanah)
 * [Identi.ca](http://identi.ca/brainwane/)
