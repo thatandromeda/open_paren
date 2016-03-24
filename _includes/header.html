@@ -12,23 +12,7 @@
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/stylesheets/stylesheet.css" media="screen">
     <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/stylesheets/github-light.css" media="screen">
     <link rel="shortcut icon" href="{{ site.baseurl }}favicon.png" />  
-    <script>
-      function updateAssetPaths() {
-        if (window.location.hostname.match(/github\.io/)) { // Only run if "github.io" appears in the hostname
-          var
-            i, // Our counter, undefined for now
-            styles = document.querySelectorAll('[rel="stylesheet]"'); // Every stylesheet link
-      
-          for (i = 0; i < styles.length; i++) { // loops through each stylesheet link
-            if (styles[i].getAttribute('href')[0] === '/') { // if the stylesheet link starts with "/"
-              styles[i].setAttribute('href', '/open_paren' + styles[i].getAttribute('href')); // prepend that stylesheet link with "/open_paren"
-            }
-          }
-        }
-      }
-     
-      updateAssetPaths(); // Invoke the function we defined above
-    </script>
+    
   </head>
   <body>
     <section class="page-header">
