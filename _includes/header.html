@@ -5,42 +5,25 @@
     <title>{% if page.title %} {{ page.title }} {% endif %}( Open paren</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="author" content="{{ site.author }}"/>
-    <link rel="stylesheet" type="text/css" href="/stylesheets/normalize.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/stylesheets/normalize.css" media="screen">
     <link href='https://fonts.googleapis.com/css?family=PT+Sans:400,700' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Enriqueta:700' rel='stylesheet' type='text/css'>
     <link href='https://cdn.jsdelivr.net/font-hack/2.013/css/hack.min.css' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="/stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="/stylesheets/github-light.css" media="screen">
-    <link rel="shortcut icon" href="favicon.png" /> 
-    <script>
-      function loadAssets() {
-        if (window.location.hostname.match(/github/)) {
-          var
-            styles = document.querySelector('[rel="stylesheet]"');
-    
-          style.setAttribute('href', '/open_paren' + styles.getAttribute('href'));
-        }
-      }
-    
-      function redirect() {
-        if (window.location.hostname.match(/github/)) {
-          window.location.replace('http://openparen.club' + window.location.pathname);
-        }
-      }
-    </script>
-    </script></head>
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}stylesheets/github-light.css" media="screen">
+    <link rel="shortcut icon" href="{{ site.baseurl }}favicon.png" />  </head>
   <body>
     <section class="page-header">
       <h1 class="project-name">
-        <a href="/">
+        <a href="{{ site.baseurl }}">
           <span class="header-large">(</span>
           <span class="header-normal"> Open paren</span>
         </a>
       </h1>
     </section>
 <ul class="header-subnav clearfix">
-  <li><a href="/">Home</a></li>
-  <li><a href="/subscribe">Subscribe</a></li>
+  <li><a href="{{ site.baseurl }}">Home</a></li>
+  <li><a href="{{ site.baseurl }}subscribe">Subscribe</a></li>
   <li><a href="https://docs.google.com/forms/d/14LvBqDK1gTq2WyOW2EcjLws1-FB72nCaExer3Pmyu5k/viewform?usp=send_form">Suggest a guest</a></li>
   <li><a href="https://twitter.com/intent/tweet?text=%23openparen">Tweet #openparen</a></li>
 </ul>
