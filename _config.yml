@@ -5,4 +5,4 @@ author: "Andromeda Yelton"
 #baseurl: "/open_paren"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge

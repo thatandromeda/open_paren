@@ -3,7 +3,7 @@ layout: static
 title: About
 ---
 
-##About Open Paren
+## About Open Paren
 
 Open paren is a podcast about libraries, librarians, and code.
 
