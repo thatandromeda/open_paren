@@ -11,7 +11,24 @@
     <link href='https://cdn.jsdelivr.net/font-hack/2.013/css/hack.min.css' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="/stylesheets/stylesheet.css" media="screen">
     <link rel="stylesheet" type="text/css" href="/stylesheets/github-light.css" media="screen">
-    <link rel="shortcut icon" href="favicon.png" />  </head>
+    <link rel="shortcut icon" href="favicon.png" /> 
+    <script>
+      function loadAssets() {
+        if (window.location.hostname.match(/github/)) {
+          var
+            styles = document.querySelector('[rel="stylesheet]"');
+    
+          style.setAttribute('href', '/open_paren' + styles.getAttribute('href'));
+        }
+      }
+    
+      function redirect() {
+        if (window.location.hostname.match(/github/)) {
+          window.location.replace('http://openparen.club' + window.location.pathname);
+        }
+      }
+    </script>
+    </script></head>
   <body>
     <section class="page-header">
       <h1 class="project-name">
