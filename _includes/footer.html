@@ -7,5 +7,28 @@
         <a href="https://github.com/thatandromeda/open_paren" class="btn btn-small">View on GitHub</a>
       </footer>
     </section>
+    <script>
+           
+    function baseurl_link (selectors){
+      for (var i = 0; i < selectors.length; i++) { // loops through each link
+        if (selectors[i].getAttribute('href')[0] === '/') { // if the link starts with "/"
+          selectors[i].setAttribute('href', '/open_paren' + selectors[i].getAttribute('href')); // prepend that link with "/open_paren"
+        }
+      }
+    }
+    
+    if (window.location.hostname.match(/github\.io/)) { // Only run if "github.io" appears in the hostname
+      var styles = document.querySelectorAll('[rel="stylesheet"]'); // Every stylesheet link
+      var a_links = document.querySelectorAll('a'); // Every anchor tag
+        
+        baseurl_link(styles); //if on github.io add /open_paren to begining of href
+        baseurl_link(a_links); //if on github.io add /open_paren to begining of href
+    }
+ 
+   
+     
+     
+     
+    </script>
   </body>
 </html>
