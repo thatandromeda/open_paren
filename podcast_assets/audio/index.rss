@@ -38,13 +38,26 @@
   
   
     <item>
+      <title>Episode 8: Becky Yoose</title>
+      <itunes:author></itunes:author>
+    
+      <itunes:image href="https://thatandromeda.github.io/open_paren/podcast_assets/cover_art.png"/>
+      <enclosure url="http://thatandromeda.github.io/open_paren/podcast_assets/audio/Open_Paren_Episode_8-_Becky_Yoose.mp3" length="63385874" type="audio/mpeg"/>
+      <guid isPermaLink="false">38c7b4929cf6e1d5ce4b052fd8d09ed06e8494bb</guid>
+      <pubDate>Mon, 25 Apr 2016 16:53:12 -0400</pubDate>
+      <itunes:duration>2641</itunes:duration>
+    
+      <description>How (and why) to write better documentation, distinguishing Australian outback hats from fedoras, why tech management is a great path for masochists, easy ways to lose your best staff, why middle management is the most subversive position, differences in technology planning in public vs. academic libraries, emotional labor, building communities.</description>
+    </item>
+  
+    <item>
       <title>Episode 7: Sumana Harihareswara</title>
       <itunes:author></itunes:author>
     
       <itunes:image href="https://thatandromeda.github.io/open_paren/podcast_assets/cover_art.png"/>
       <enclosure url="http://thatandromeda.github.io/open_paren/podcast_assets/audio/Open_Paren_Episode_7-_Sumana_Harihareswara.mp3" length="77295970" type="audio/mpeg"/>
       <guid isPermaLink="false">bd771a6c24e957c9c583b28950123cf7b0c64865</guid>
-      <pubDate>Wed, 16 Dec 2015 20:40:00 -0500</pubDate>
+      <pubDate>Thu, 24 Mar 2016 09:44:17 -0400</pubDate>
       <itunes:duration>3220</itunes:duration>
     
       <description>Project management, open source and social justice as tools of empowerment, self-image as a coder, how Sumana got into open source and why, learning programming (and its culture and tools) as an adult, computer science vs software engineering, managers as sysadmins of social infrastructure, media preservation and digitally archiving a literary estate, fixed vs. growth mindsets, debugging as a hero's journey, the Recurse Center, Hamilton.</description>
@@ -57,7 +70,7 @@
       <itunes:image href="https://thatandromeda.github.io/open_paren/podcast_assets/cover_art.png"/>
       <enclosure url="http://thatandromeda.github.io/open_paren/podcast_assets/audio/Open_Paren_Episode_6-_Ian_Collins.mp3" length="58695629" type="audio/mpeg"/>
       <guid isPermaLink="false">66007fed164b99d84113487473eba33d630c6621</guid>
-      <pubDate>Thu, 10 Dec 2015 14:40:00 -0500</pubDate>
+      <pubDate>Thu, 24 Mar 2016 09:44:16 -0400</pubDate>
       <itunes:duration>2445</itunes:duration>
     
       <description>Hyperlocal Chicago digital collections, a Wordpress/Drupal/Omeka smackdown, multisite Wordpress as a library service, Agile(ish) project management making lives better, why we love staging servers, the woes of front-end testing (with a rant about our frenemy Selenium), and Lars von Trier.</description>
@@ -70,7 +83,7 @@
       <itunes:image href="https://thatandromeda.github.io/open_paren/podcast_assets/cover_art.png"/>
       <enclosure url="http://thatandromeda.github.io/open_paren/podcast_assets/audio/Open_Paren_Episode_5-_Margaret_Heller.mp3" length="64937419" type="audio/mpeg"/>
       <guid isPermaLink="false">38311170436314ac5b02a466df185e7cea5e46a1</guid>
-      <pubDate>Mon, 30 Nov 2015 15:21:39 -0500</pubDate>
+      <pubDate>Thu, 24 Mar 2016 09:44:15 -0400</pubDate>
       <itunes:duration>2705</itunes:duration>
     
       <description>We talk about the awesomely DIY Read/Write Library of Chicago (which is eager for your volunteer involvement, Chicagolanders); building a culture of UX testing; useful web analytics tools (and their privacy implications); and the pros and cons of open source library tech stacks.</description>
@@ -83,7 +96,7 @@
       <itunes:image href="https://thatandromeda.github.io/open_paren/podcast_assets/cover_art.png"/>
       <enclosure url="http://thatandromeda.github.io/open_paren/podcast_assets/audio/Open_Paren_Episode_4-_Whitni_Watkins.mp3" length="62984016" type="audio/mpeg"/>
       <guid isPermaLink="false">05adcf8275cdd280cb88687ef62b5cbc42bd8d14</guid>
-      <pubDate>Sat, 21 Nov 2015 11:35:36 -0500</pubDate>
+      <pubDate>Thu, 24 Mar 2016 09:44:14 -0400</pubDate>
       <itunes:duration>2624</itunes:duration>
     
       <description>We talk about ending up in programming without a CS degree, informal learning and hidden prerequisites, using programming in your life, Code Club, teaching yourself and others to code, and Whitni's unbelievably freaking cool app that uses echolocation to help you evaluate whether your library spaces are acoustically well-suited to their functions.</description>
@@ -96,7 +109,7 @@
       <itunes:image href="https://thatandromeda.github.io/open_paren/podcast_assets/cover_art.png"/>
       <enclosure url="http://thatandromeda.github.io/open_paren/podcast_assets/audio/Open_Paren_Episode_3-_Miriam_Posner.mp3" length="56912619" type="audio/mpeg"/>
       <guid isPermaLink="false">c19fff1248ded538c74f061b67060a57922e84f9</guid>
-      <pubDate>Mon, 09 Nov 2015 14:39:28 -0500</pubDate>
+      <pubDate>Thu, 24 Mar 2016 09:44:12 -0400</pubDate>
       <itunes:duration>2371</itunes:duration>
     
       <description>We chat about what “digital humanities” means, some thought-provoking projects and articles, the limitations of metadata in describing diverse experiences and how to build interfaces that grapple with these limitations, useful tools to learn if you want to do DH work, and more.</description>
@@ -109,7 +122,7 @@
       <itunes:image href="https://thatandromeda.github.io/open_paren/podcast_assets/cover_art.png"/>
       <enclosure url="http://thatandromeda.github.io/open_paren/podcast_assets/audio/Open_Paren_Episode_2-_Francis_Kayiwa.mp3" length="67333510" type="audio/mpeg"/>
       <guid isPermaLink="false">dd24ccd881c024e19716e0216ef1e71648a4e78c</guid>
-      <pubDate>Mon, 19 Oct 2015 13:44:07 -0400</pubDate>
+      <pubDate>Thu, 24 Mar 2016 09:44:11 -0400</pubDate>
       <itunes:duration>2805</itunes:duration>
     
       <description>Telecommuting via robot; how Francis got into system administration (and library school) by way of a Kenyan computer club and his dormmates' advice; late '90s computer science curricula and why things are better now; why Docker is the new hotness (and containerization can make your life than virtual machines do); learning from your social circle; documentation as hospitality; what Francis' favorite operating system is and why (spoiler alert: it's the one that makes him swear the least); and administering lots of servers at once with an Ansible playbook.</description>
@@ -122,7 +135,7 @@
       <itunes:image href="https://thatandromeda.github.io/open_paren/podcast_assets/cover_art.png"/>
       <enclosure url="http://thatandromeda.github.io/open_paren/podcast_assets/audio/Open_Paren_Episode_1-_Cecily_Walker.mp3" length="63483566" type="audio/mpeg"/>
       <guid isPermaLink="false">e9a812f154a8304d40ea951c4dcf321ef8c5913b</guid>
-      <pubDate>Thu, 15 Oct 2015 16:57:43 -0400</pubDate>
+      <pubDate>Thu, 24 Mar 2016 09:44:10 -0400</pubDate>
       <itunes:duration>2645</itunes:duration>
     
       <description>We talked about thinking like a programmer, Skillcrush, Maptime, learning communities, why maybe user interfaces _should_ make you think, the gaps in our metadata, human stories, and how to break and remake the library world for the better. I couldn't have asked for a better opening guest.</description>
