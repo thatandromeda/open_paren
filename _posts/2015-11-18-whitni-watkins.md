@@ -14,7 +14,7 @@ tags: published
 <ul>
   <li>Github: <a href="https://github.com/whitni">whitni</a></li>
   <li>Twitter: <a href="https://twitter.com/_whitni">@_whitni</a></li>
-  <li>Site: <a href="http://nimblelibrarian.com/">nimblelibrarian.com</a></li>
+  <li>Site: <a href="http://nimblelibrarian.wordpress.com/">nimblelibrarian.com</a></li>
 </ul>
 
 <h3>In this episode</h3>
