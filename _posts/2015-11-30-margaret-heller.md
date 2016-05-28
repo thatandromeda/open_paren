@@ -12,7 +12,7 @@ Today, I'm chatting with Margaret Heller, a Digital Services Librarian at [Loyol
 
 * Github: [gloriousgeneralist](http://github.com/gloriousgeneralist)
 * Twitter: [@Margaret_Heller](https://twitter.com/Margaret_Heller)
-* Site: [www.gloriousgeneralist.com](www.gloriousgeneralist.com)
+* Site: [www.gloriousgeneralist.com](http://www.gloriousgeneralist.com)
 
 ### In this episode
 
